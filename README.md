@@ -257,10 +257,8 @@ python -m pytest -q tests
 
 ## Documentation Map
 
-- User tutorial: `docs/GUIA_USUARIO_ATUAL.md`
-- Technical deep dive: `docs/DOCUMENTACAO_TECNICA_ATUAL.md`
-- File and technology reference: `docs/ARQUIVOS_E_TECNOLOGIAS.md`
-- Prompt map: `docs/PROMPTS_IA.md`
+- User tutorial: `docs/COMMANDS`
+- Technical deep dive: `docs/MANUAL`
 
 ## Important Notes
 
