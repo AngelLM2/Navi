@@ -1,0 +1,1160 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "language": "en-US",
+        "created_at": "2026-02-11 17:45:22"
+    },
+    "words": {
+        "spotify": [
+            "S P AA T IH F AY",
+            "S P OW T IH F AY"
+        ],
+        "youtube": [
+            "Y UW T UW B",
+            "Y UW CH UW B"
+        ],
+        "netflix": [
+            "N EH T F L IH K S",
+            "N EH T F L IH X"
+        ],
+        "whatsapp": [
+            "W AH T S AE P",
+            "W AA T S AA P"
+        ],
+        "chrome": [
+            "K R OW M",
+            "CH R OW M"
+        ],
+        "firefox": [
+            "F AY ER F AA K S",
+            "F AY R F AA K S"
+        ],
+        "discord": [
+            "D IH S K AO R D",
+            "D IH S K ER D"
+        ],
+        "github": [
+            "G IH T AH B",
+            "G IH TH AH B"
+        ],
+        "facebook": [
+            "F EY S B UH K",
+            "F EY S B UH K"
+        ],
+        "instagram": [
+            "IH N S T AH G R AE M",
+            "IH N S T AA G R AA M"
+        ],
+        "telegram": [
+            "T EH L IH G R AE M",
+            "T EH L IH G R AA M"
+        ],
+        "signal": [
+            "S IH G N AH L",
+            "S IH G N AA L"
+        ],
+        "slack": [
+            "S L AE K",
+            "S L AA K"
+        ],
+        "zoom": [
+            "Z UW M",
+            "Z UH M"
+        ],
+        "teams": [
+            "T IY M Z",
+            "T IY M S"
+        ],
+        "skype": [
+            "S K AY P",
+            "S K AY P IY"
+        ],
+        "vscode": [
+            "V IY EH S K OW D",
+            "V IZ K OW D"
+        ],
+        "terminal": [
+            "T ER M IH N AH L",
+            "T ER M IH N AA L"
+        ],
+        "calculator": [
+            "K AE L K Y AH L EY T ER",
+            "K AE L K Y UH L EY T ER"
+        ],
+        "steam": [
+            "S T IY M",
+            "S T IY M"
+        ],
+        "twitch": [
+            "T W IH CH",
+            "T W IY CH"
+        ],
+        "reddit": [
+            "R EH D IH T",
+            "R EH D IY T"
+        ],
+        "gmail": [
+            "JH IY M EY L",
+            "G M EY L"
+        ],
+        "outlook": [
+            "AW T L UH K",
+            "AW T L UH K"
+        ],
+        "windows": [
+            "W IH N D OW Z",
+            "W IH N D OW S"
+        ],
+        "linux": [
+            "L IH N AH K S",
+            "L IH N UH K S"
+        ],
+        "python": [
+            "P AY TH AA N",
+            "P AY TH AH N"
+        ],
+        "java": [
+            "JH AA V AH",
+            "JH AE V AH"
+        ],
+        "google": [
+            "G UW G AH L",
+            "G UH G AH L"
+        ],
+        "amazon": [
+            "AE M AH Z AA N",
+            "AE M AH Z AH N"
+        ],
+        "twitter": [
+            "T W IH T ER",
+            "T W IY T ER"
+        ],
+        "tiktok": [
+            "T IH K T AA K",
+            "T AY K T OW K"
+        ],
+        "navi": [
+            "N AE V IY",
+            "N AA V IY"
+        ],
+        "obsidian": [
+            "AA B S IH D IH AE N"
+        ],
+        "accept": [
+            "AE K K EH P T"
+        ],
+        "close": [
+            "K L AA S EH"
+        ],
+        "opens": [
+            "AA P EH N S"
+        ],
+        "public": [
+            "P AH B L IH K"
+        ],
+        "opened": [
+            "AA P EH N EH D"
+        ],
+        "you": [
+            "Y AA AH"
+        ],
+        "can": [
+            "K AE N"
+        ],
+        "talk": [
+            "T AE L K"
+        ],
+        "me?": [
+            "M EH"
+        ],
+        "what": [
+            "W HH AE T"
+        ],
+        "time": [
+            "T IH M EH"
+        ],
+        "his": [
+            "HH IH S"
+        ],
+        "her": [
+            "HH EH R"
+        ],
+        "understand": [
+            "AH N D EH R S T AE N D"
+        ],
+        "say?": [
+            "S AE Y"
+        ],
+        "is": [
+            "IH S"
+        ],
+        "make": [
+            "M AE K EH"
+        ],
+        "conversation": [
+            "K AA N V EH R S AE T IH AA N"
+        ],
+        "with": [
+            "W IH T HH"
+        ],
+        "seek": [
+            "S EH EH K"
+        ],
+        "open": [
+            "AA P EH N"
+        ],
+        "accessed": [
+            "AE K K EH S S EH D"
+        ],
+        "access": [
+            "AE K K EH S S"
+        ],
+        "pdf": [
+            "P D F"
+        ],
+        "league": [
+            "L EH AE G AH EH"
+        ],
+        "legends": [
+            "L EH G EH N D S"
+        ],
+        "web": [
+            "W EH B"
+        ],
+        "run": [
+            "R AH N"
+        ],
+        "chatgpt": [
+            "K HH AE T G P T"
+        ],
+        "say": [
+            "S AE Y"
+        ],
+        "bom": [
+            "B AA M"
+        ],
+        "dia": [
+            "D IH AE"
+        ],
+        "click": [
+            "K L IH K K"
+        ],
+        "first": [
+            "F IH R S T"
+        ],
+        "email": [
+            "EH M AE IH L"
+        ],
+        "search": [
+            "S EH AE R K HH"
+        ],
+        "hip": [
+            "HH IH P"
+        ],
+        "hop": [
+            "HH AA P"
+        ],
+        "video": [
+            "V IH D EH AA"
+        ],
+        "ggmax": [
+            "G G M AE K S"
+        ],
+        "valorant": [
+            "V AE L AA R AE N T"
+        ],
+        "after": [
+            "AE F T EH R"
+        ],
+        "sklauncher": [
+            "S K L AE AH N K HH EH R"
+        ],
+        "download": [
+            "D AA W N L AA AE D"
+        ],
+        "link": [
+            "L IH N K"
+        ],
+        "roblox": [
+            "R AA B L AA K S"
+        ],
+        "https": [
+            "HH T T P S"
+        ],
+        "skmedix": [
+            "S K M EH D IH K S"
+        ],
+        "downloads": [
+            "D AA W N L AA AE D S"
+        ],
+        "install": [
+            "IH N S T AE L L"
+        ],
+        "installer": [
+            "IH N S T AE L L EH R"
+        ],
+        "www": [
+            "W W W"
+        ],
+        "crunchyroll": [
+            "K R AH N K HH Y R AA L L"
+        ],
+        "com": [
+            "K AA M"
+        ],
+        "polas": [
+            "P AA L AE S"
+        ],
+        "rezero": [
+            "R EH Z EH R AA"
+        ],
+        "force": [
+            "F AA R K EH"
+        ],
+        "live": [
+            "L IH V EH"
+        ],
+        "sinopse": [
+            "S IH N AA P S EH"
+        ],
+        "dom": [
+            "D AA M"
+        ],
+        "casmurro": [
+            "K AE S M AH R R AA"
+        ],
+        "portuguese": [
+            "P AA R T AH G AH EH S EH"
+        ],
+        "pornhub": [
+            "P AA R N HH AH B"
+        ],
+        "help": [
+            "HH EH L P"
+        ],
+        "verify": [
+            "V EH R IH F Y"
+        ],
+        "age": [
+            "AE G EH"
+        ],
+        "second": [
+            "S EH K AA N D"
+        ],
+        "voice": [
+            "V AA IH K EH"
+        ],
+        "list": [
+            "L IH S T"
+        ],
+        "test": [
+            "T EH S T"
+        ],
+        "zira": [
+            "Z IH R AE"
+        ],
+        "potato": [
+            "P AA T AE T AA"
+        ],
+        "browser": [
+            "B R AA W S EH R"
+        ],
+        "lofi": [
+            "L AA F IH"
+        ],
+        "discover": [
+            "D IH S K AA V EH R"
+        ],
+        "jujutsu": [
+            "JH AH JH AH T S AH"
+        ],
+        "kaisen": [
+            "K AE IH S EH N"
+        ],
+        "forcelive": [
+            "F AA R K EH L IH V EH"
+        ]
+    },
+    "learning_history": {
+        "obsidian": {
+            "first_learned": "2026-02-11 19:36:09",
+            "last_updated": "2026-02-11 19:36:09",
+            "learned_from": "auto_accept",
+            "confidence": 0.8,
+            "phonemes": [
+                "AA B S IH D IH AE N"
+            ],
+            "usage_count": 2
+        },
+        "accept": {
+            "first_learned": "2026-02-11 19:38:46",
+            "last_updated": "2026-02-11 19:38:46",
+            "learned_from": "auto_accept",
+            "confidence": 0.8,
+            "phonemes": [
+                "AE K K EH P T"
+            ],
+            "usage_count": 0
+        },
+        "close": {
+            "first_learned": "2026-02-11 20:23:43",
+            "last_updated": "2026-02-11 20:23:43",
+            "learned_from": "command_learning",
+            "confidence": 0.7,
+            "phonemes": [
+                "K L AA S EH"
+            ],
+            "usage_count": 0
+        },
+        "opens": {
+            "first_learned": "2026-02-12 00:23:54",
+            "last_updated": "2026-02-12 00:23:54",
+            "learned_from": "command_learning",
+            "confidence": 0.7,
+            "phonemes": [
+                "AA P EH N S"
+            ],
+            "usage_count": 0
+        },
+        "public": {
+            "first_learned": "2026-02-12 00:23:54",
+            "last_updated": "2026-02-12 00:23:54",
+            "learned_from": "command_learning",
+            "confidence": 0.7,
+            "phonemes": [
+                "P AH B L IH K"
+            ],
+            "usage_count": 0
+        },
+        "opened": {
+            "first_learned": "2026-02-12 02:13:37",
+            "last_updated": "2026-02-12 02:13:37",
+            "learned_from": "command_learning",
+            "confidence": 0.7,
+            "phonemes": [
+                "AA P EH N EH D"
+            ],
+            "usage_count": 0
+        },
+        "you": {
+            "first_learned": "2026-02-16 23:34:29",
+            "last_updated": "2026-02-16 23:34:29",
+            "learned_from": "command_learning",
+            "confidence": 0.7,
+            "phonemes": [
+                "Y AA AH"
+            ],
+            "usage_count": 0
+        },
+        "can": {
+            "first_learned": "2026-02-16 23:34:29",
+            "last_updated": "2026-02-16 23:34:29",
+            "learned_from": "command_learning",
+            "confidence": 0.7,
+            "phonemes": [
+                "K AE N"
+            ],
+            "usage_count": 0
+        },
+        "talk": {
+            "first_learned": "2026-02-16 23:34:29",
+            "last_updated": "2026-02-16 23:34:29",
+            "learned_from": "command_learning",
+            "confidence": 0.7,
+            "phonemes": [
+                "T AE L K"
+            ],
+            "usage_count": 0
+        },
+        "me?": {
+            "first_learned": "2026-02-16 23:34:29",
+            "last_updated": "2026-02-16 23:34:29",
+            "learned_from": "command_learning",
+            "confidence": 0.7,
+            "phonemes": [
+                "M EH"
+            ],
+            "usage_count": 0
+        },
+        "what": {
+            "first_learned": "2026-02-17 01:46:38",
+            "last_updated": "2026-02-17 01:46:38",
+            "learned_from": "command_learning",
+            "confidence": 0.7,
+            "phonemes": [
+                "W HH AE T"
+            ],
+            "usage_count": 0
+        },
+        "time": {
+            "first_learned": "2026-02-17 01:46:38",
+            "last_updated": "2026-02-17 01:46:38",
+            "learned_from": "command_learning",
+            "confidence": 0.7,
+            "phonemes": [
+                "T IH M EH"
+            ],
+            "usage_count": 0
+        },
+        "his": {
+            "first_learned": "2026-02-17 01:46:38",
+            "last_updated": "2026-02-17 01:46:38",
+            "learned_from": "command_learning",
+            "confidence": 0.7,
+            "phonemes": [
+                "HH IH S"
+            ],
+            "usage_count": 0
+        },
+        "her": {
+            "first_learned": "2026-02-17 01:48:58",
+            "last_updated": "2026-02-17 01:48:58",
+            "learned_from": "command_learning",
+            "confidence": 0.7,
+            "phonemes": [
+                "HH EH R"
+            ],
+            "usage_count": 0
+        },
+        "understand": {
+            "first_learned": "2026-02-17 01:49:41",
+            "last_updated": "2026-02-17 01:49:41",
+            "learned_from": "command_learning",
+            "confidence": 0.7,
+            "phonemes": [
+                "AH N D EH R S T AE N D"
+            ],
+            "usage_count": 0
+        },
+        "say?": {
+            "first_learned": "2026-02-17 01:49:41",
+            "last_updated": "2026-02-17 01:49:41",
+            "learned_from": "command_learning",
+            "confidence": 0.7,
+            "phonemes": [
+                "S AE Y"
+            ],
+            "usage_count": 0
+        },
+        "is": {
+            "first_learned": "2026-02-17 01:50:58",
+            "last_updated": "2026-02-17 01:50:58",
+            "learned_from": "auto_accept",
+            "confidence": 0.8,
+            "phonemes": [
+                "IH S"
+            ],
+            "usage_count": 0
+        },
+        "make": {
+            "first_learned": "2026-02-17 01:51:52",
+            "last_updated": "2026-02-17 01:51:52",
+            "learned_from": "command_learning",
+            "confidence": 0.7,
+            "phonemes": [
+                "M AE K EH"
+            ],
+            "usage_count": 6
+        },
+        "conversation": {
+            "first_learned": "2026-02-17 01:51:52",
+            "last_updated": "2026-02-17 01:51:52",
+            "learned_from": "command_learning",
+            "confidence": 0.7,
+            "phonemes": [
+                "K AA N V EH R S AE T IH AA N"
+            ],
+            "usage_count": 0
+        },
+        "with": {
+            "first_learned": "2026-02-17 01:51:52",
+            "last_updated": "2026-02-17 01:51:52",
+            "learned_from": "command_learning",
+            "confidence": 0.7,
+            "phonemes": [
+                "W IH T HH"
+            ],
+            "usage_count": 0
+        },
+        "seek": {
+            "first_learned": "2026-02-17 03:14:04",
+            "last_updated": "2026-02-17 03:14:04",
+            "learned_from": "auto_accept",
+            "confidence": 0.8,
+            "phonemes": [
+                "S EH EH K"
+            ],
+            "usage_count": 0
+        },
+        "open": {
+            "first_learned": "2026-02-18 19:37:20",
+            "last_updated": "2026-02-18 19:37:20",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "AA P EH N"
+            ],
+            "usage_count": 5
+        },
+        "accessed": {
+            "first_learned": "2026-02-18 19:37:31",
+            "last_updated": "2026-02-18 19:37:31",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "AE K K EH S S EH D"
+            ],
+            "usage_count": 1
+        },
+        "access": {
+            "first_learned": "2026-02-18 19:38:37",
+            "last_updated": "2026-02-18 19:38:37",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "AE K K EH S S"
+            ],
+            "usage_count": 9
+        },
+        "pdf": {
+            "first_learned": "2026-02-18 19:39:09",
+            "last_updated": "2026-02-18 19:39:09",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "P D F"
+            ],
+            "usage_count": 3
+        },
+        "league": {
+            "first_learned": "2026-02-18 19:39:09",
+            "last_updated": "2026-02-18 19:39:09",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "L EH AE G AH EH"
+            ],
+            "usage_count": 0
+        },
+        "legends": {
+            "first_learned": "2026-02-18 19:39:09",
+            "last_updated": "2026-02-18 19:39:09",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "L EH G EH N D S"
+            ],
+            "usage_count": 0
+        },
+        "web": {
+            "first_learned": "2026-02-18 23:48:02",
+            "last_updated": "2026-02-18 23:48:02",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "W EH B"
+            ],
+            "usage_count": 46
+        },
+        "run": {
+            "first_learned": "2026-02-18 23:48:02",
+            "last_updated": "2026-02-18 23:48:02",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "R AH N"
+            ],
+            "usage_count": 3
+        },
+        "chatgpt": {
+            "first_learned": "2026-02-18 23:48:02",
+            "last_updated": "2026-02-18 23:48:02",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "K HH AE T G P T"
+            ],
+            "usage_count": 2
+        },
+        "say": {
+            "first_learned": "2026-02-18 23:48:02",
+            "last_updated": "2026-02-18 23:48:02",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "S AE Y"
+            ],
+            "usage_count": 2
+        },
+        "bom": {
+            "first_learned": "2026-02-18 23:48:43",
+            "last_updated": "2026-02-18 23:48:43",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "B AA M"
+            ],
+            "usage_count": 0
+        },
+        "dia": {
+            "first_learned": "2026-02-18 23:48:43",
+            "last_updated": "2026-02-18 23:48:43",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "D IH AE"
+            ],
+            "usage_count": 0
+        },
+        "click": {
+            "first_learned": "2026-02-18 23:51:44",
+            "last_updated": "2026-02-18 23:51:44",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "K L IH K K"
+            ],
+            "usage_count": 45
+        },
+        "first": {
+            "first_learned": "2026-02-18 23:51:44",
+            "last_updated": "2026-02-18 23:51:44",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "F IH R S T"
+            ],
+            "usage_count": 25
+        },
+        "email": {
+            "first_learned": "2026-02-18 23:51:44",
+            "last_updated": "2026-02-18 23:51:44",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "EH M AE IH L"
+            ],
+            "usage_count": 0
+        },
+        "search": {
+            "first_learned": "2026-02-19 01:39:01",
+            "last_updated": "2026-02-19 01:39:01",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "S EH AE R K HH"
+            ],
+            "usage_count": 19
+        },
+        "hip": {
+            "first_learned": "2026-02-19 01:39:01",
+            "last_updated": "2026-02-19 01:39:01",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "HH IH P"
+            ],
+            "usage_count": 0
+        },
+        "hop": {
+            "first_learned": "2026-02-19 01:39:01",
+            "last_updated": "2026-02-19 01:39:01",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "HH AA P"
+            ],
+            "usage_count": 0
+        },
+        "video": {
+            "first_learned": "2026-02-19 01:39:01",
+            "last_updated": "2026-02-19 01:39:01",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "V IH D EH AA"
+            ],
+            "usage_count": 20
+        },
+        "ggmax": {
+            "first_learned": "2026-02-19 02:14:33",
+            "last_updated": "2026-02-19 02:14:33",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "G G M AE K S"
+            ],
+            "usage_count": 1
+        },
+        "valorant": {
+            "first_learned": "2026-02-19 02:14:33",
+            "last_updated": "2026-02-19 02:14:33",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "V AE L AA R AE N T"
+            ],
+            "usage_count": 1
+        },
+        "after": {
+            "first_learned": "2026-02-19 02:15:16",
+            "last_updated": "2026-02-19 02:15:16",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "AE F T EH R"
+            ],
+            "usage_count": 0
+        },
+        "sklauncher": {
+            "first_learned": "2026-02-19 03:22:23",
+            "last_updated": "2026-02-19 03:22:23",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "S K L AE AH N K HH EH R"
+            ],
+            "usage_count": 15
+        },
+        "download": {
+            "first_learned": "2026-02-19 03:22:23",
+            "last_updated": "2026-02-19 03:22:23",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "D AA W N L AA AE D"
+            ],
+            "usage_count": 18
+        },
+        "link": {
+            "first_learned": "2026-02-19 03:22:48",
+            "last_updated": "2026-02-19 03:22:48",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "L IH N K"
+            ],
+            "usage_count": 3
+        },
+        "roblox": {
+            "first_learned": "2026-02-19 03:27:24",
+            "last_updated": "2026-02-19 03:27:24",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "R AA B L AA K S"
+            ],
+            "usage_count": 0
+        },
+        "https": {
+            "first_learned": "2026-02-19 03:37:58",
+            "last_updated": "2026-02-19 03:37:58",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "HH T T P S"
+            ],
+            "usage_count": 15
+        },
+        "skmedix": {
+            "first_learned": "2026-02-19 03:37:58",
+            "last_updated": "2026-02-19 03:37:58",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "S K M EH D IH K S"
+            ],
+            "usage_count": 10
+        },
+        "downloads": {
+            "first_learned": "2026-02-19 03:37:58",
+            "last_updated": "2026-02-19 03:37:58",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "D AA W N L AA AE D S"
+            ],
+            "usage_count": 10
+        },
+        "install": {
+            "first_learned": "2026-02-19 03:38:32",
+            "last_updated": "2026-02-19 03:38:32",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "IH N S T AE L L"
+            ],
+            "usage_count": 1
+        },
+        "installer": {
+            "first_learned": "2026-02-19 03:45:01",
+            "last_updated": "2026-02-19 03:45:01",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "IH N S T AE L L EH R"
+            ],
+            "usage_count": 0
+        },
+        "www": {
+            "first_learned": "2026-02-19 03:48:16",
+            "last_updated": "2026-02-19 03:48:16",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "W W W"
+            ],
+            "usage_count": 4
+        },
+        "crunchyroll": {
+            "first_learned": "2026-02-19 03:48:16",
+            "last_updated": "2026-02-19 03:48:16",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "K R AH N K HH Y R AA L L"
+            ],
+            "usage_count": 4
+        },
+        "com": {
+            "first_learned": "2026-02-19 03:48:16",
+            "last_updated": "2026-02-19 03:48:16",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "K AA M"
+            ],
+            "usage_count": 10
+        },
+        "polas": {
+            "first_learned": "2026-02-19 03:48:16",
+            "last_updated": "2026-02-19 03:48:16",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "P AA L AE S"
+            ],
+            "usage_count": 3
+        },
+        "rezero": {
+            "first_learned": "2026-02-19 03:49:44",
+            "last_updated": "2026-02-19 03:49:44",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "R EH Z EH R AA"
+            ],
+            "usage_count": 1
+        },
+        "force": {
+            "first_learned": "2026-02-19 04:28:27",
+            "last_updated": "2026-02-19 04:28:27",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "F AA R K EH"
+            ],
+            "usage_count": 8
+        },
+        "live": {
+            "first_learned": "2026-02-19 04:28:27",
+            "last_updated": "2026-02-19 04:28:27",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "L IH V EH"
+            ],
+            "usage_count": 8
+        },
+        "sinopse": {
+            "first_learned": "2026-02-19 14:15:17",
+            "last_updated": "2026-02-19 14:15:17",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "S IH N AA P S EH"
+            ],
+            "usage_count": 2
+        },
+        "dom": {
+            "first_learned": "2026-02-19 14:15:17",
+            "last_updated": "2026-02-19 14:15:17",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "D AA M"
+            ],
+            "usage_count": 2
+        },
+        "casmurro": {
+            "first_learned": "2026-02-19 14:15:17",
+            "last_updated": "2026-02-19 14:15:17",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "K AE S M AH R R AA"
+            ],
+            "usage_count": 2
+        },
+        "portuguese": {
+            "first_learned": "2026-02-19 14:16:01",
+            "last_updated": "2026-02-19 14:16:01",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "P AA R T AH G AH EH S EH"
+            ],
+            "usage_count": 0
+        },
+        "help": {
+            "first_learned": "2026-02-21 16:56:45",
+            "last_updated": "2026-02-21 16:56:45",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "HH EH L P"
+            ],
+            "usage_count": 0
+        },
+        "verify": {
+            "first_learned": "2026-02-21 16:58:12",
+            "last_updated": "2026-02-21 16:58:12",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "V EH R IH F Y"
+            ],
+            "usage_count": 1
+        },
+        "age": {
+            "first_learned": "2026-02-21 16:58:12",
+            "last_updated": "2026-02-21 16:58:12",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "AE G EH"
+            ],
+            "usage_count": 1
+        },
+        "second": {
+            "first_learned": "2026-02-21 17:00:49",
+            "last_updated": "2026-02-21 17:00:49",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "S EH K AA N D"
+            ],
+            "usage_count": 0
+        },
+        "voice": {
+            "first_learned": "2026-02-21 17:45:32",
+            "last_updated": "2026-02-21 17:45:32",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "V AA IH K EH"
+            ],
+            "usage_count": 2
+        },
+        "list": {
+            "first_learned": "2026-02-21 17:45:32",
+            "last_updated": "2026-02-21 17:45:32",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "L IH S T"
+            ],
+            "usage_count": 1
+        },
+        "test": {
+            "first_learned": "2026-02-21 17:45:46",
+            "last_updated": "2026-02-21 17:45:46",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "T EH S T"
+            ],
+            "usage_count": 0
+        },
+        "zira": {
+            "first_learned": "2026-02-21 17:45:46",
+            "last_updated": "2026-02-21 17:45:46",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "Z IH R AE"
+            ],
+            "usage_count": 0
+        },
+        "potato": {
+            "first_learned": "2026-02-21 18:21:57",
+            "last_updated": "2026-02-21 18:21:57",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "P AA T AE T AA"
+            ],
+            "usage_count": 0
+        },
+        "browser": {
+            "first_learned": "2026-02-24 17:11:12",
+            "last_updated": "2026-02-24 17:11:12",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "B R AA W S EH R"
+            ],
+            "usage_count": 1
+        },
+        "lofi": {
+            "first_learned": "2026-02-24 17:14:39",
+            "last_updated": "2026-02-24 17:14:39",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "L AA F IH"
+            ],
+            "usage_count": 1
+        },
+        "discover": {
+            "first_learned": "2026-02-24 17:15:33",
+            "last_updated": "2026-02-24 17:15:33",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "D IH S K AA V EH R"
+            ],
+            "usage_count": 0
+        },
+        "jujutsu": {
+            "first_learned": "2026-02-24 17:15:33",
+            "last_updated": "2026-02-24 17:15:33",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "JH AH JH AH T S AH"
+            ],
+            "usage_count": 0
+        },
+        "kaisen": {
+            "first_learned": "2026-02-24 17:15:33",
+            "last_updated": "2026-02-24 17:15:33",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "K AE IH S EH N"
+            ],
+            "usage_count": 0
+        },
+        "forcelive": {
+            "first_learned": "2026-02-24 17:15:33",
+            "last_updated": "2026-02-24 17:15:33",
+            "learned_from": "voice_command",
+            "confidence": 0.64,
+            "phonemes": [
+                "F AA R K EH L IH V EH"
+            ],
+            "usage_count": 0
+        }
+    }
+}

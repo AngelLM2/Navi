@@ -1,0 +1,6 @@
+.env
+tests
+__pycache__
+.pytest_cache
+vosk-model-small-en-us-0.15
+vosk-model-en-us-0.22

@@ -1,0 +1,810 @@
+{
+    "obsidian": [
+        {
+            "timestamp": "2026-02-11 19:36:09",
+            "phonemes": [
+                "AA B S IH D IH AE N"
+            ],
+            "source": "auto_accept",
+            "confidence": 0.8
+        }
+    ],
+    "accept": [
+        {
+            "timestamp": "2026-02-11 19:38:46",
+            "phonemes": [
+                "AE K K EH P T"
+            ],
+            "source": "auto_accept",
+            "confidence": 0.8
+        }
+    ],
+    "close": [
+        {
+            "timestamp": "2026-02-11 20:23:43",
+            "phonemes": [
+                "K L AA S EH"
+            ],
+            "source": "command_learning",
+            "confidence": 0.7
+        }
+    ],
+    "opens": [
+        {
+            "timestamp": "2026-02-12 00:23:54",
+            "phonemes": [
+                "AA P EH N S"
+            ],
+            "source": "command_learning",
+            "confidence": 0.7
+        }
+    ],
+    "public": [
+        {
+            "timestamp": "2026-02-12 00:23:54",
+            "phonemes": [
+                "P AH B L IH K"
+            ],
+            "source": "command_learning",
+            "confidence": 0.7
+        }
+    ],
+    "opened": [
+        {
+            "timestamp": "2026-02-12 02:13:37",
+            "phonemes": [
+                "AA P EH N EH D"
+            ],
+            "source": "command_learning",
+            "confidence": 0.7
+        }
+    ],
+    "you": [
+        {
+            "timestamp": "2026-02-16 23:34:29",
+            "phonemes": [
+                "Y AA AH"
+            ],
+            "source": "command_learning",
+            "confidence": 0.7
+        }
+    ],
+    "can": [
+        {
+            "timestamp": "2026-02-16 23:34:29",
+            "phonemes": [
+                "K AE N"
+            ],
+            "source": "command_learning",
+            "confidence": 0.7
+        }
+    ],
+    "talk": [
+        {
+            "timestamp": "2026-02-16 23:34:29",
+            "phonemes": [
+                "T AE L K"
+            ],
+            "source": "command_learning",
+            "confidence": 0.7
+        }
+    ],
+    "me?": [
+        {
+            "timestamp": "2026-02-16 23:34:29",
+            "phonemes": [
+                "M EH"
+            ],
+            "source": "command_learning",
+            "confidence": 0.7
+        }
+    ],
+    "what": [
+        {
+            "timestamp": "2026-02-17 01:46:38",
+            "phonemes": [
+                "W HH AE T"
+            ],
+            "source": "command_learning",
+            "confidence": 0.7
+        }
+    ],
+    "time": [
+        {
+            "timestamp": "2026-02-17 01:46:38",
+            "phonemes": [
+                "T IH M EH"
+            ],
+            "source": "command_learning",
+            "confidence": 0.7
+        }
+    ],
+    "his": [
+        {
+            "timestamp": "2026-02-17 01:46:38",
+            "phonemes": [
+                "HH IH S"
+            ],
+            "source": "command_learning",
+            "confidence": 0.7
+        }
+    ],
+    "her": [
+        {
+            "timestamp": "2026-02-17 01:48:58",
+            "phonemes": [
+                "HH EH R"
+            ],
+            "source": "command_learning",
+            "confidence": 0.7
+        }
+    ],
+    "understand": [
+        {
+            "timestamp": "2026-02-17 01:49:41",
+            "phonemes": [
+                "AH N D EH R S T AE N D"
+            ],
+            "source": "command_learning",
+            "confidence": 0.7
+        }
+    ],
+    "say?": [
+        {
+            "timestamp": "2026-02-17 01:49:41",
+            "phonemes": [
+                "S AE Y"
+            ],
+            "source": "command_learning",
+            "confidence": 0.7
+        }
+    ],
+    "is": [
+        {
+            "timestamp": "2026-02-17 01:50:58",
+            "phonemes": [
+                "IH S"
+            ],
+            "source": "auto_accept",
+            "confidence": 0.8
+        }
+    ],
+    "make": [
+        {
+            "timestamp": "2026-02-17 01:51:52",
+            "phonemes": [
+                "M AE K EH"
+            ],
+            "source": "command_learning",
+            "confidence": 0.7
+        }
+    ],
+    "conversation": [
+        {
+            "timestamp": "2026-02-17 01:51:52",
+            "phonemes": [
+                "K AA N V EH R S AE T IH AA N"
+            ],
+            "source": "command_learning",
+            "confidence": 0.7
+        }
+    ],
+    "with": [
+        {
+            "timestamp": "2026-02-17 01:51:52",
+            "phonemes": [
+                "W IH T HH"
+            ],
+            "source": "command_learning",
+            "confidence": 0.7
+        }
+    ],
+    "seek": [
+        {
+            "timestamp": "2026-02-17 03:14:04",
+            "phonemes": [
+                "S EH EH K"
+            ],
+            "source": "auto_accept",
+            "confidence": 0.8
+        }
+    ],
+    "open": [
+        {
+            "timestamp": "2026-02-18 02:50:16",
+            "phonemes": [
+                "AA P EH N"
+            ],
+            "source": "live_command",
+            "confidence": 0.62
+        },
+        {
+            "timestamp": "2026-02-18 19:37:20",
+            "phonemes": [
+                "AA P EH N"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "meeting": [
+        {
+            "timestamp": "2026-02-18 02:50:16",
+            "phonemes": [
+                "M EH EH T IH N G"
+            ],
+            "source": "live_command",
+            "confidence": 0.62
+        }
+    ],
+    "notes": [
+        {
+            "timestamp": "2026-02-18 02:50:17",
+            "phonemes": [
+                "N AA T EH S"
+            ],
+            "source": "live_command",
+            "confidence": 0.62
+        }
+    ],
+    "accessed": [
+        {
+            "timestamp": "2026-02-18 19:37:31",
+            "phonemes": [
+                "AE K K EH S S EH D"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "access": [
+        {
+            "timestamp": "2026-02-18 19:38:37",
+            "phonemes": [
+                "AE K K EH S S"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "pdf": [
+        {
+            "timestamp": "2026-02-18 19:39:09",
+            "phonemes": [
+                "P D F"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "league": [
+        {
+            "timestamp": "2026-02-18 19:39:09",
+            "phonemes": [
+                "L EH AE G AH EH"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "legends": [
+        {
+            "timestamp": "2026-02-18 19:39:09",
+            "phonemes": [
+                "L EH G EH N D S"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "web": [
+        {
+            "timestamp": "2026-02-18 23:48:02",
+            "phonemes": [
+                "W EH B"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "run": [
+        {
+            "timestamp": "2026-02-18 23:48:02",
+            "phonemes": [
+                "R AH N"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "chatgpt": [
+        {
+            "timestamp": "2026-02-18 23:48:02",
+            "phonemes": [
+                "K HH AE T G P T"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "say": [
+        {
+            "timestamp": "2026-02-18 23:48:02",
+            "phonemes": [
+                "S AE Y"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "bom": [
+        {
+            "timestamp": "2026-02-18 23:48:43",
+            "phonemes": [
+                "B AA M"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "dia": [
+        {
+            "timestamp": "2026-02-18 23:48:43",
+            "phonemes": [
+                "D IH AE"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "click": [
+        {
+            "timestamp": "2026-02-18 23:51:44",
+            "phonemes": [
+                "K L IH K K"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "first": [
+        {
+            "timestamp": "2026-02-18 23:51:44",
+            "phonemes": [
+                "F IH R S T"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "email": [
+        {
+            "timestamp": "2026-02-18 23:51:44",
+            "phonemes": [
+                "EH M AE IH L"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "search": [
+        {
+            "timestamp": "2026-02-19 01:39:01",
+            "phonemes": [
+                "S EH AE R K HH"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "hip": [
+        {
+            "timestamp": "2026-02-19 01:39:01",
+            "phonemes": [
+                "HH IH P"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "hop": [
+        {
+            "timestamp": "2026-02-19 01:39:01",
+            "phonemes": [
+                "HH AA P"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "video": [
+        {
+            "timestamp": "2026-02-19 01:39:01",
+            "phonemes": [
+                "V IH D EH AA"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "ggmax": [
+        {
+            "timestamp": "2026-02-19 02:14:33",
+            "phonemes": [
+                "G G M AE K S"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "valorant": [
+        {
+            "timestamp": "2026-02-19 02:14:33",
+            "phonemes": [
+                "V AE L AA R AE N T"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "after": [
+        {
+            "timestamp": "2026-02-19 02:15:16",
+            "phonemes": [
+                "AE F T EH R"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "sklauncher": [
+        {
+            "timestamp": "2026-02-19 03:22:23",
+            "phonemes": [
+                "S K L AE AH N K HH EH R"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "download": [
+        {
+            "timestamp": "2026-02-19 03:22:23",
+            "phonemes": [
+                "D AA W N L AA AE D"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "link": [
+        {
+            "timestamp": "2026-02-19 03:22:48",
+            "phonemes": [
+                "L IH N K"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "roblox": [
+        {
+            "timestamp": "2026-02-19 03:27:24",
+            "phonemes": [
+                "R AA B L AA K S"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "https": [
+        {
+            "timestamp": "2026-02-19 03:37:58",
+            "phonemes": [
+                "HH T T P S"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "skmedix": [
+        {
+            "timestamp": "2026-02-19 03:37:58",
+            "phonemes": [
+                "S K M EH D IH K S"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "downloads": [
+        {
+            "timestamp": "2026-02-19 03:37:58",
+            "phonemes": [
+                "D AA W N L AA AE D S"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "install": [
+        {
+            "timestamp": "2026-02-19 03:38:32",
+            "phonemes": [
+                "IH N S T AE L L"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "installer": [
+        {
+            "timestamp": "2026-02-19 03:45:01",
+            "phonemes": [
+                "IH N S T AE L L EH R"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "www": [
+        {
+            "timestamp": "2026-02-19 03:48:16",
+            "phonemes": [
+                "W W W"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "crunchyroll": [
+        {
+            "timestamp": "2026-02-19 03:48:16",
+            "phonemes": [
+                "K R AH N K HH Y R AA L L"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "com": [
+        {
+            "timestamp": "2026-02-19 03:48:16",
+            "phonemes": [
+                "K AA M"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "polas": [
+        {
+            "timestamp": "2026-02-19 03:48:16",
+            "phonemes": [
+                "P AA L AE S"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "rezero": [
+        {
+            "timestamp": "2026-02-19 03:49:44",
+            "phonemes": [
+                "R EH Z EH R AA"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "force": [
+        {
+            "timestamp": "2026-02-19 04:28:27",
+            "phonemes": [
+                "F AA R K EH"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "live": [
+        {
+            "timestamp": "2026-02-19 04:28:27",
+            "phonemes": [
+                "L IH V EH"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "sinopse": [
+        {
+            "timestamp": "2026-02-19 14:15:17",
+            "phonemes": [
+                "S IH N AA P S EH"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "dom": [
+        {
+            "timestamp": "2026-02-19 14:15:17",
+            "phonemes": [
+                "D AA M"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "casmurro": [
+        {
+            "timestamp": "2026-02-19 14:15:17",
+            "phonemes": [
+                "K AE S M AH R R AA"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "portuguese": [
+        {
+            "timestamp": "2026-02-19 14:16:01",
+            "phonemes": [
+                "P AA R T AH G AH EH S EH"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "help": [
+        {
+            "timestamp": "2026-02-21 16:56:45",
+            "phonemes": [
+                "HH EH L P"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "verify": [
+        {
+            "timestamp": "2026-02-21 16:58:12",
+            "phonemes": [
+                "V EH R IH F Y"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "age": [
+        {
+            "timestamp": "2026-02-21 16:58:12",
+            "phonemes": [
+                "AE G EH"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "second": [
+        {
+            "timestamp": "2026-02-21 17:00:49",
+            "phonemes": [
+                "S EH K AA N D"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "voice": [
+        {
+            "timestamp": "2026-02-21 17:45:32",
+            "phonemes": [
+                "V AA IH K EH"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "list": [
+        {
+            "timestamp": "2026-02-21 17:45:32",
+            "phonemes": [
+                "L IH S T"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "test": [
+        {
+            "timestamp": "2026-02-21 17:45:46",
+            "phonemes": [
+                "T EH S T"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "zira": [
+        {
+            "timestamp": "2026-02-21 17:45:46",
+            "phonemes": [
+                "Z IH R AE"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "potato": [
+        {
+            "timestamp": "2026-02-21 18:21:57",
+            "phonemes": [
+                "P AA T AE T AA"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "browser": [
+        {
+            "timestamp": "2026-02-24 17:11:12",
+            "phonemes": [
+                "B R AA W S EH R"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "lofi": [
+        {
+            "timestamp": "2026-02-24 17:14:39",
+            "phonemes": [
+                "L AA F IH"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "discover": [
+        {
+            "timestamp": "2026-02-24 17:15:33",
+            "phonemes": [
+                "D IH S K AA V EH R"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "jujutsu": [
+        {
+            "timestamp": "2026-02-24 17:15:33",
+            "phonemes": [
+                "JH AH JH AH T S AH"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "kaisen": [
+        {
+            "timestamp": "2026-02-24 17:15:33",
+            "phonemes": [
+                "K AE IH S EH N"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ],
+    "forcelive": [
+        {
+            "timestamp": "2026-02-24 17:15:33",
+            "phonemes": [
+                "F AA R K EH L IH V EH"
+            ],
+            "source": "voice_command",
+            "confidence": 0.64
+        }
+    ]
+}

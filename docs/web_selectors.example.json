@@ -1,0 +1,11 @@
+{
+  "username": "input[name='email']",
+  "password": "input[type='password']",
+  "submit": "button[type='submit']",
+  "search_input": "input[type='search']",
+  "search_submit": "button[type='submit']",
+  "message_input": "textarea",
+  "send_button": "button[aria-label*='send' i]",
+  "play_button": "button[aria-label*='play' i]",
+  "bills_container": "main"
+}
